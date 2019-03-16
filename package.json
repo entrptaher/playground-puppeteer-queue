@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "p-queue": "^4.0.0",
+    "puppeteer": "^1.13.0"
+  }
+}
